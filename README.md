@@ -11,7 +11,7 @@ Hopson Bot has commands split into multiple categories, which can be seen from t
 
 ![Help command](https://i.imgur.com/ut8CrO8.png)
 
-To access the commands of the catergories, the user must put the category name followed by the command. 
+To access the commands of the categories, the user must put the category name followed by the command. 
 
 For example, to access the `role` commands, the user must do `>role <command here>`
 
@@ -28,3 +28,4 @@ Role commands are for changing your roles, as well as seeing how many people hav
 The poll commands allow the user to create a poll, and then have people vote using reactions.
 
 ![Poll example](https://i.imgur.com/LQwrzEc.png)
+
